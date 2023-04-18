@@ -1,0 +1,18 @@
+<resources>
+    <!--
+    Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=77:60:7E:77:74:AB:5D:AF:D0:2F:C0:C1:BA:23:07:D9:9B:3A:F7:9C%3Bar.com.infoil.ptbmvp.activities
+
+    You can also add your credentials to an existing key, using this line:
+    77:60:7E:77:74:AB:5D:AF:D0:2F:C0:C1:BA:23:07:D9:9B:3A:F7:9C;ar.com.infoil.ptbmvp.activities
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="api_chat" templateMergeStrategy="preserve" translatable="false">
+        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
+    </string>
+</resources>

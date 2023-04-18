@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestGPT-3</string>
+    <string name="tv_welcome">Bienvenido</string>
+    <string name="btnvoice_text">Iniciar</string>
+</resources>
